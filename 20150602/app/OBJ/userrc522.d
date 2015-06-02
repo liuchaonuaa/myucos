@@ -1,0 +1,35 @@
+..\OBJ\userrc522.o: ..\HighDrivers\userRC522\userRC522.c
+..\OBJ\userrc522.o: ..\LowDrivers\stm32spi2\stm32spi2.h
+..\OBJ\userrc522.o: ..\SYSTEM\sys\sys.h
+..\OBJ\userrc522.o: ..\USER\stm32f10x.h
+..\OBJ\userrc522.o: ..\CORE\core_cm3.h
+..\OBJ\userrc522.o: D:\software\k keil\keil4\installation\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\userrc522.o: ..\USER\system_stm32f10x.h
+..\OBJ\userrc522.o: ..\USER\stm32f10x_conf.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\OBJ\userrc522.o: ..\USER\stm32f10x.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+..\OBJ\userrc522.o: ..\STM32F10x_FWLib\inc\misc.h
+..\OBJ\userrc522.o: D:\software\k keil\keil4\installation\ARM\ARMCC\bin\..\include\string.h
+..\OBJ\userrc522.o: ..\HighDrivers\userRC522\userRC522.h
+..\OBJ\userrc522.o: ..\SYSTEM\delay\delay.h

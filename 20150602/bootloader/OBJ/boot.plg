@@ -1,0 +1,74 @@
+<html>
+<body>
+<pre>
+<h1>礦ision3 Build Log</h1>
+<h2>Project:</h2>
+F:\01 临时\信息学院\temp\boot\USER\boot.uv2
+Project File Date:  07/22/2014
+
+<h2>Output:</h2>
+Build target 'boot'
+linking...
+Program Size: Code=10848 RO-data=960 RW-data=100 ZI-data=3116  
+FromELF: creating hex file...
+"..\OBJ\boot.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\boot.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.313V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+---
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'boot'
+linking...
+Program Size: Code=10848 RO-data=960 RW-data=100 ZI-data=3116  
+FromELF: creating hex file...
+User command #1: D:\Software\k Keil\keil3\installation\ARM\BIN40\fromelf.exe  --bin -o  ..\OBJ\booti.bin ..\OBJ\boot.axf
+"..\OBJ\boot.axf" - 0 Error(s), 0 Warning(s).
+Build target 'boot'
+linking...
+Program Size: Code=10848 RO-data=960 RW-data=100 ZI-data=3116  
+FromELF: creating hex file...
+User command #1: D:\Software\k Keil\keil3\installation\ARM\BIN40\fromelf.exe  --bin -o  ..\OBJ\booti.bin ..\OBJ\boot.axf
+"..\OBJ\boot.axf" - 0 Error(s), 0 Warning(s).
+Build target 'boot'
+linking...
+Program Size: Code=10848 RO-data=960 RW-data=100 ZI-data=3116  
+FromELF: creating hex file...
+User command #1: D:\Software\k Keil\keil3\installation\ARM\BIN40\fromelf.exe  --bin -o  ..\OBJ\boot.bin ..\OBJ\boot.axf
+"..\OBJ\boot.axf" - 0 Error(s), 0 Warning(s).

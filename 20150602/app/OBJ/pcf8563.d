@@ -1,0 +1,35 @@
+..\OBJ\pcf8563.o: ..\HighDrivers\pcf8563\pcf8563.c
+..\OBJ\pcf8563.o: ..\SYSTEM\sys\sys.h
+..\OBJ\pcf8563.o: ..\USER\stm32f10x.h
+..\OBJ\pcf8563.o: ..\CORE\core_cm3.h
+..\OBJ\pcf8563.o: D:\software\k keil\keil4\installation\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\pcf8563.o: ..\USER\system_stm32f10x.h
+..\OBJ\pcf8563.o: ..\USER\stm32f10x_conf.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\OBJ\pcf8563.o: ..\USER\stm32f10x.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+..\OBJ\pcf8563.o: ..\STM32F10x_FWLib\inc\misc.h
+..\OBJ\pcf8563.o: D:\software\k keil\keil4\installation\ARM\ARMCC\bin\..\include\string.h
+..\OBJ\pcf8563.o: ..\SYSTEM\delay\delay.h
+..\OBJ\pcf8563.o: ..\LowDrivers\myiic\myiic.h
+..\OBJ\pcf8563.o: ..\HighDrivers\pcf8563\pcf8563.h
